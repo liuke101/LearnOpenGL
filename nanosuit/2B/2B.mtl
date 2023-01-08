@@ -1,0 +1,69 @@
+newmtl Model001_Material001
+map_Kd skin_base.png
+
+newmtl Model001_Material002
+map_Kd outfit_base.png
+
+newmtl Model001_Material003
+map_Kd outfit_base.png
+
+newmtl Model001_Material004
+map_Kd skin_base.png
+
+newmtl Model001_Material005
+map_Kd outfit_base.png
+
+newmtl Model001_Material006
+map_Kd outfit_base.png
+
+newmtl Model001_Material007
+map_Kd outfit_base.png
+
+newmtl Model001_Material008
+map_Kd outfit_base.png
+
+newmtl Model001_Material009
+map_Kd outfit_base.png
+
+newmtl Model001_Material010
+map_Kd outfit_base.png
+
+newmtl Model001_Material011
+map_Kd outfit_base.png
+
+newmtl Model001_Material012
+map_Kd outfit_base.png
+
+newmtl Model001_Material013
+map_Kd outfit_base.png
+
+newmtl Model001_Material014
+map_Kd outfit_base.png
+
+newmtl Model001_Material015
+map_Kd outfit_base.png
+
+newmtl Model001_Material016
+map_Kd outfit_base.png
+
+newmtl Model001_Material017
+map_Kd skin_base.png
+
+newmtl Model001_Material018
+map_Kd skin_base.png
+
+newmtl Model001_Material019
+map_Kd hair2_base.png
+
+newmtl Model001_Material020
+map_Kd hair1_base.png
+
+newmtl Model001_Material021
+map_Kd dets_base.png
+
+newmtl Model001_Material022
+map_Kd snood.png
+
+newmtl Model001_Material023
+map_Kd eyelashes.png
+

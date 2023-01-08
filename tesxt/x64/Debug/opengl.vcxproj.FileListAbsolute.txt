@@ -1,0 +1,4 @@
+C:\Users\22625\Desktop\opengl\opengl\x64\Debug\myopengl.exe
+C:\Users\22625\Desktop\LearnOpenGL\opengl\x64\Debug\myopengl.exe
+C:\Users\22625\Desktop\LearnOpenGL\nanosuit\x64\Debug\myopengl.exe
+C:\Users\22625\Desktop\LearnOpenGL\tesxt\x64\Debug\myopengl.exe

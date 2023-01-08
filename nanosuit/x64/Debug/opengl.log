@@ -1,0 +1,13 @@
+﻿  nanosuit_reflect.cpp
+C:\Users\22625\Desktop\LearnOpenGL\nanosuit\Mesh.h(95,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\22625\Desktop\LearnOpenGL\nanosuit\nanosuit_reflect.cpp(179,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\22625\Desktop\LearnOpenGL\nanosuit\nanosuit_reflect.cpp(180,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  opengl.vcxproj -> C:\Users\22625\Desktop\LearnOpenGL\nanosuit\x64\Debug\myopengl.exe
