@@ -1,4 +1,4 @@
 *.vs
-*.idea
 *.vscode
+*.idea
 *x64

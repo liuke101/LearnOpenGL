@@ -1,2 +1,0 @@
-C:\Users\22625\Desktop\opengl\opengl\x64\Debug\myopengl.exe
-C:\Users\22625\Desktop\LearnOpenGL\opengl\x64\Debug\myopengl.exe
